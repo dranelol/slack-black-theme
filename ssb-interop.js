@@ -121,11 +121,11 @@ document.addEventListener("DOMContentLoaded", function() {
    let customCustomCSS = `
    :root {
       /* Modify these to change your theme colors: */
-     --primary: #E5C17C;
+     --primary: #81969A;
      --accent: #568AF2;
      --text: #ABB2BF;
-     --background: #282C34;
-     --background-elevated: #3B4048;
+     --background: #293134;
+     --background-elevated: #2F393C;
 
      /* These should be less important: */
      --background-hover: lighten(#3B4048, 10%);
